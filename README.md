@@ -5,7 +5,7 @@ This is an example Backstage app that includes two Terraform plugins:
 1. Scaffolder Action - creates Terraform Cloud/Enterprise resources using scaffolder
 1. Terraform frontend plugin - retrieves information for an entity based on an organization and workspace
 
-## Prerequisites
+## Prerequisitess
 
 Install [Backstage prerequisites](https://backstage.io/docs/getting-started/#prerequisites).
 
